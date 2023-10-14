@@ -1,0 +1,142 @@
+body {
+  background-image: url(https://wallpaperaccess.com/full/983286.jpg);
+
+ width: 80%;
+ margin: auto;
+}
+
+body h1{
+text-align: center;
+font-size: 100px;
+color: rgb(194, 234, 189);
+font-family: fantasy;
+
+}
+
+
+
+
+.flex-container {
+  text-align: center;
+  color:rgb(194, 234, 189) ;
+  font-size: 25px;
+  font-family: 'Poppins', sans-serif;
+  
+
+}
+.flex-container1 {
+  text-align: center;
+  color:rgb(194, 234, 189) ;
+  font-size: 35px;
+  font-family: 'Poppins', sans-serif;
+  
+
+}
+span{
+
+  color: rgb(47, 0, 255);
+
+}
+
+header nav {
+display: flex;
+justify-content: flex-end;
+
+
+}
+ 
+.HomePage {
+  background-color:rgb(194, 234, 189) ;
+  color: rgb(1, 25, 54);
+  margin-right: 10px;
+  border-radius: 10px;
+  height: 35px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.5s, 
+color 0.5s;
+  
+}
+.About {
+  background-color:rgb(194, 234, 189) ;
+  color:rgb(1, 25, 54);
+  margin-right: 10px;
+  border-radius: 10px;
+  height: 35px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.5s, 
+color 0.5s;
+
+
+}
+
+.TimeTable {
+  background-color:rgb(194, 234, 189) ;
+  color:rgb(1, 25, 54);
+  margin-right: 10px;
+  border-radius: 10px;
+  height: 35px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.5s, 
+color 0.5s;
+
+
+}
+.ContactUs {
+  background-color:rgb(194, 234, 189) ;
+  color:rgb(1, 25, 54);
+  margin-right: 10px;
+  border-radius: 10px;
+  height: 35px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.5s, 
+color 0.5s;
+
+}
+
+.flex-container2 {
+display: flex;
+flex-wrap: wrap;
+
+
+}
+
+img {
+width: 700px;
+height: 600px;
+padding: 20px;
+
+
+}
+
+footer {
+  color:rgb(194, 234, 189) ;
+  font-weight: bold;
+
+}
+
+.HomePage:hover {
+background-color:rgb(1, 25, 54); ;
+color: rgb(194, 234, 189);
+
+}
+.About:hover{
+  background-color:rgb(1, 25, 54); ;
+color: rgb(194, 234, 189);
+
+}
+
+.TimeTable:hover{
+  background-color:rgb(1, 25, 54); ;
+color: rgb(194, 234, 189);
+
+}
+.ContactUs:hover{
+  background-color:rgb(1, 25, 54); ;
+color: rgb(194, 234, 189);
+
+}
+
