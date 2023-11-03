@@ -1,0 +1,124 @@
+
+body header  {
+margin: auto;
+width: 100%;
+position: absolute;
+top: 0;
+left: 0;
+padding: 20px;
+
+ 
+}
+
+
+
+#items div {
+border: 1px solid black;
+padding-top: 20px;
+}
+
+body nav ul{
+  list-style: none;
+  display: flex;
+  justify-content: flex-end;
+  padding: 0%;
+  margin: 0%;
+
+}
+
+body nav ul li{
+  padding: 10px 15px;
+}
+
+body nav ul li a{
+  text-decoration: none;
+  color: red;
+}
+body nav ul li a:hover{
+  border-bottom: 1px solid black;
+}
+
+
+
+
+
+
+.logo {
+  display: flex;
+  justify-content: flex-start;
+  margin-bottom: 0; 
+  padding-top: 0;
+  margin-top: 0;
+
+}
+
+
+.logo img{
+
+  height: 85px;
+  width: 100px;
+  margin-top: 10px;
+
+
+}
+.Shop-Now {
+
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  
+ 
+}
+.Shop-Now button {
+  height:30px ;
+ width: 105px;
+ border-radius: 5px;
+ border: 1px solid black;
+
+}
+body main h1{
+margin: auto;
+display: flex;
+justify-content: center;
+padding-top: 315px;
+font-size: 100px;
+font-family: fantasy;
+color: white;
+
+}
+body main {
+
+background-image: url(https://img.freepik.com/premium-photo/moon-shining-dark-forest-silhouette-serene-outdoor-night-scene_176841-24816.jpg);
+padding-bottom: 400px ;
+background-size: cover;
+}
+
+#items img{
+height: 350px;
+width: 360px;
+
+}
+
+#items {
+margin: auto;
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+
+
+}
+
+#items div{
+  padding-right: 10px;
+  margin: 90%;
+  margin: auto;
+  margin-bottom: 20px;
+  margin-right: 20px;
+}
+
+
+
+.footer{
+  
+  font-size: 10px;
+}
